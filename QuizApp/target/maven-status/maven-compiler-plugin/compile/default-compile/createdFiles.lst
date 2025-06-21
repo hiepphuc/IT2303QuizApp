@@ -1,0 +1,7 @@
+module-info.class
+com\php\quizapp\PrimaryController.class
+com\php\quizapp\SecondaryController.class
+com\php\pojo\Category.class
+com\php\quizapp\QuestionController.class
+com\php\utils\MyAlert.class
+com\php\quizapp\App.class
